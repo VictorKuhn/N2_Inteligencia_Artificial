@@ -42,3 +42,12 @@ Os algoritmos otimizam a proporção de investimento nas ações da Apple, busca
 - **Paralelização**: Aproveitar o processamento paralelo para melhorar o tempo de execução.
 - **Dados em Tempo Real**: Integrar com APIs de mercado para atualizações em tempo real.
 - **Interface Amigável**: Criar uma interface gráfica ou web para facilitar o uso por investidores.
+
+---
+
+Feito por:
+
+ - Davi Prudente [See LinkedIn](https://www.linkedin.com/in/daviprudente/)
+ - Marcos Jr [See LinkedIn](https://www.linkedin.com/in/marcos-gon%C3%A7alves-bbb17a1b5)
+ - Victor Hugo [See LinkedIn](https://www.linkedin.com/in/victorbkuhn/)
+ - Wesley Sardi [See LinkedIn](https://www.linkedin.com/in/wesleysardi/)
